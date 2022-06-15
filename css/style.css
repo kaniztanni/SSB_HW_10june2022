@@ -1,0 +1,53 @@
+.header
+{   min-height: 100px;
+	background-color: darkgray;
+}
+.container
+{
+	overflow: hidden;
+	border: 10px solid lightpink;
+
+}
+.contact
+{   
+    float:left ;  
+	width: 60%;
+     min-height: 200px;
+	background-color: lightblue;
+}
+.blog{
+	float:right ; 
+	width: 40%;
+    min-height: 200px;
+	background-color: lightgreen;
+}
+.footer
+{
+	 min-height: 100px;
+	background-color: black;
+}
+
+h2
+{
+	color: blue;
+}
+
+table,th,td
+{
+	border: 1px solid black;
+}
+caption{
+	font-size: 20px;
+}
+thead
+{
+	color: blue;
+}
+tbody
+{
+	color: red;
+}
+tfoot
+{
+	color: green;
+}
